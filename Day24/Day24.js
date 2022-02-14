@@ -11,7 +11,6 @@ CHALLENGES (3/3 DONE)
 expandedForm(12) should return '10+2'
 expandedForm(42) should return '40+2'
 expandedForm(734) should return '700+30+4'
-
 */
 
 function expandedForm(num) {
