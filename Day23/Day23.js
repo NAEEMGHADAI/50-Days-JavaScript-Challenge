@@ -44,4 +44,4 @@ function findEvenIndex(arr) {
 	}
 	return -1;
 }
-console.log(findEvenIndex([20, 10, 30, 10, 10, 15, 35]));
+console.log(findEvenIndex([-5, 3, 7, 4, -2, 5, 2]));
